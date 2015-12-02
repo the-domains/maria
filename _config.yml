@@ -1,0 +1,14 @@
+layout_spectrum: 0.3334083
+color:
+  saturation: 0.7057859
+  brandStrength: 0.3172043
+  lightness: 0.5286738
+  rhythmicContrast: 1
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.7544803
+name: Maria
